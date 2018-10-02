@@ -1,2 +1,5 @@
 # hello-world
-start
+
+Hi everybody!
+
+I am here to learn Python
